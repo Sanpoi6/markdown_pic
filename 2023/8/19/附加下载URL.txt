@@ -1,0 +1,50 @@
+{
+    "type": "__EXPRESS_TOKENS",
+    "data": [
+        {
+            "controlData": null,
+            "desc": "http://10.70.94.200/api/file/doc/file/download?fileIds=",
+            "subOps": null,
+            "type": "CONSTANT",
+            "uid": "8bc786e8-dd02-498e-8aaf-a4a09945f45e",
+            "value": "http://10.70.94.200/api/file/doc/file/download?fileIds=",
+            "g_l_index": "1"
+        },
+        {
+            "controlData": null,
+            "desc": "+",
+            "subOps": null,
+            "type": "OPERATOR",
+            "uid": "51e790f6-dfdd-403a-81ec-166f67bef29a",
+            "value": "+",
+            "g_l_index": "2"
+        },
+        {
+            "controlData": null,
+            "desc": "页面规则.紧急采购计划.紧急采购计划[单一记录].文件信息[分组].其他附件[附件].值",
+            "subOps": null,
+            "type": "VARIABLE",
+            "uid": "f4660ecc-cd40-4faf-99d8-97bf02571503",
+            "value": "_o_FORM_p__p_udcForm_xI10_1699879531349_p_udcForm_xI10_1699879531349_o_.FORM_p_otherAnnexNsbdFileIds_p_udcForm_xI10_1699879531349_p_attachment_obfd",
+            "g_l_index": "3"
+        },
+        {
+            "controlData": null,
+            "desc": "+",
+            "subOps": null,
+            "type": "OPERATOR",
+            "uid": "eb60d19d-b325-4fea-bf00-054948273a2c",
+            "value": "+",
+            "g_l_index": "4"
+        },
+        {
+            "controlData": null,
+            "desc": "&Access-Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmZjgwODE4MThkMjA2ZmQyMDE4ZDNhMjNhNjFiMDQ2MyIsImFwcE5hbWUiOiLnu7zlkIjlip7lhawiLCJhcHBDb2RlIjoiemhiZyIsInR5cGUiOiJVU0VSX1BBU1NXT1JEIiwidXNlck5hbWUiOiJ6aGJnVG9rZW4iLCJ1c2VySWQiOiJmZjgwODE4MThkMjA2ZmQyMDE4ZDNhMjNhNjFiMDQ2MyIsInNlY3JldExldmVsIjowLCJyYW5kb20iOiI0UWw3ejIiLCJsb2dpbk5hbWUiOiJ6aGJnVG9rZW4iLCJhcHBJZCI6ImZmODA4MTgxOGM5YzM5ZDAwMThjOWZiNDUzNDcwOTM5IiwiRHNwVG9rZW4iOiIyZDBjZjUzNmYwNzI1MmIxMTU3YTM3NzI0YmIwYjJjYTIzM2Q4ZTc3OTExZTJhYTZiYjVhNzk3OTQ5Y2I5NDI4IiwiZXhwIjoxNzA2MDgxMDMxLCJpYXQiOjE3MDYwNzc0MzF9.aQx-EatsItNF37HorYSeou9_Aj_PlKc7PcrxF0xxR48\n\n",
+            "subOps": null,
+            "type": "CONSTANT",
+            "uid": "d9366732-d7d7-4738-867c-c4a8d33c646a",
+            "value": "&Access-Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmZjgwODE4MThkMjA2ZmQyMDE4ZDNhMjNhNjFiMDQ2MyIsImFwcE5hbWUiOiLnu7zlkIjlip7lhawiLCJhcHBDb2RlIjoiemhiZyIsInR5cGUiOiJVU0VSX1BBU1NXT1JEIiwidXNlck5hbWUiOiJ6aGJnVG9rZW4iLCJ1c2VySWQiOiJmZjgwODE4MThkMjA2ZmQyMDE4ZDNhMjNhNjFiMDQ2MyIsInNlY3JldExldmVsIjowLCJyYW5kb20iOiI0UWw3ejIiLCJsb2dpbk5hbWUiOiJ6aGJnVG9rZW4iLCJhcHBJZCI6ImZmODA4MTgxOGM5YzM5ZDAwMThjOWZiNDUzNDcwOTM5IiwiRHNwVG9rZW4iOiIyZDBjZjUzNmYwNzI1MmIxMTU3YTM3NzI0YmIwYjJjYTIzM2Q4ZTc3OTExZTJhYTZiYjVhNzk3OTQ5Y2I5NDI4IiwiZXhwIjoxNzA2MDgxMDMxLCJpYXQiOjE3MDYwNzc0MzF9.aQx-EatsItNF37HorYSeou9_Aj_PlKc7PcrxF0xxR48\n\n",
+            "g_l_index": "5"
+        }
+    ]
+}
